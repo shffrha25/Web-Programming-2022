@@ -1,4 +1,4 @@
-console.log('hallo, Harfa')
+console.log('hallo, Shofa')
 
 // belajar variable
 // statis
